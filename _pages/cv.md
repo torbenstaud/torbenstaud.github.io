@@ -15,7 +15,7 @@ Education
  Grade: "very good"
 * M.S. in Mathematics, Heinrich-Heine-University Dusseldorf, 2021 \
  Grade: "very good"
-* Ph.D in Mathematic, Heinrich-Heine-University Dusseldorf, 2024 (expected)
+* Ph.D in Mathematics (Mathematical Statistics), Heinrich-Heine-University Dusseldorf, 2024 (expected)
 
 Work experience
 ======
