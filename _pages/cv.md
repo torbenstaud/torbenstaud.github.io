@@ -13,8 +13,9 @@ Education
 ======
 * B.S. in Mathematics and Applied Fields, Heinrich-Heine-University Dusseldorf, 2020 \
  Grade: "very good"
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.S. in Mathematics, Heinrich-Heine-University Dusseldorf, 2021 \
+ Grade: "very good"
+* Ph.D in Mathematic, Heinrich-Heine-University Dusseldorf, 2024 (expected)
 
 Work experience
 ======
