@@ -15,8 +15,8 @@ Phone:
 
 Adress:
 ===
-Mathematical Institute
-Chair of Chair of Mathematical Statistics and Probability Theory
-Universitaetsstr. 1
-40225 Dusseldorf
+Mathematical Institute\
+Chair of Chair of Mathematical Statistics and Probability Theory\
+Universitaetsstr. 1\
+40225 Dusseldorf\
 Germany
