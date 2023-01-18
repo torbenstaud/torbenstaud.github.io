@@ -16,7 +16,10 @@ Education
 * M.S. in Mathematics, Heinrich-Heine-University Dusseldorf, 2021 \
  Grade: "very good"
 * Ph.D in Mathematics (Mathematical Statistics), Heinrich-Heine-University Dusseldorf, 2024 (expected)
+
+
 <!--
+
 Work experience
 ======
 * Summer 2015: Research Assistant
@@ -60,4 +63,6 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams 
+
+
 -->
