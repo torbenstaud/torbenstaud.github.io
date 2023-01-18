@@ -28,8 +28,8 @@ Work experience
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
--->  
-<!-- Skills
+
+kills
 ======
 * Skill 1
 * Skill 2
