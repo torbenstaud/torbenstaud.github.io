@@ -16,7 +16,7 @@ Education
 * M.S. in Mathematics, Heinrich-Heine-University Dusseldorf, 2021 \
  Grade: "very good"
 * Ph.D in Mathematics (Mathematical Statistics), Heinrich-Heine-University Dusseldorf, 2024 (expected)
-
+<!--
 Work experience
 ======
 * Summer 2015: Research Assistant
@@ -28,7 +28,7 @@ Work experience
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
-  
+-->  
 <!-- Skills
 ======
 * Skill 1
