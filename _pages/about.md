@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-... to my website. I am a PhD-candidate at the Chair of Mathematical Statistics and Probability Theory at the [University of Dusseldorf](https://www.math.hhu.de/lehrstuehle-/-personen-/-ansprechpartner/innen/lehrstuehle-des-mathematischen-instituts/lehrstuhl-fuer-mathematische-statistik-und-wahrscheinlichkeitstheorie) under the supervision of [University Professor Dr. Axel Bücher](https://www.math.hhu.de/en/chairs-/-people-/-contact-persons/the-chairs-of-the-mathematical-institute/chair-of-mathematical-statistics-and-calculus-of-probabilities/team/prof-dr-axel-buecher).
+... to my website. I am a doctoral student at the Chair of Mathematical Statistics and Probability Theory, [University of Dusseldorf](https://www.math.hhu.de/lehrstuehle-/-personen-/-ansprechpartner/innen/lehrstuehle-des-mathematischen-instituts/lehrstuhl-fuer-mathematische-statistik-und-wahrscheinlichkeitstheorie) and part of [Professor Dr. Axel Bücher's](https://www.math.hhu.de/en/chairs-/-people-/-contact-persons/the-chairs-of-the-mathematical-institute/chair-of-mathematical-statistics-and-calculus-of-probabilities/team/prof-dr-axel-buecher) work group in Mathematical Statistics.
 
 [Curriculum Vitae](https://torbenstaud.github.io/cv/)
 ======
