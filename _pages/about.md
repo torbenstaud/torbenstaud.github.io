@@ -1,7 +1,6 @@
 ---
 permalink: /
-seo_title: "YOUR NEW TITLE HERE"
-title: "Test."
+title: "NEW TITLE"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
