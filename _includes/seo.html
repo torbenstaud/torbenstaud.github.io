@@ -6,9 +6,9 @@
 {% endif %}
 {% assign seo_url = seo_url | default: site.github.url %}
 
-{% if page.title and author_profile != true %}
+{% if page.title == true and excerpt != "About Me"  %}
   {% assign seo_title = page.title | append: " " | append: site.title_separator | append: " " | append: site.title %}
-{% elsif page.title and author_profile == true %}
+{% elsif page.title == true and excerpt == "About Me" %}
   {% assign seo_title = "YOUR NEW TITLE HERE" %}
 {% endif %}
 
