@@ -9,4 +9,4 @@ date: 2023-08-03
 location: "Essen, Germany"
 ---
 
-I gave a talk about my research topic of extremal U-Statistics: [Link to the slides](/files/U_stats.pdf)
+I gave a talk about my research topic of extremal U-Statistics: [Link to the slides](/files/U_Stats.pdf)
