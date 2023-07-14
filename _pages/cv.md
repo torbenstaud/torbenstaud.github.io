@@ -7,64 +7,17 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 University Education
 ======
 * Ph.D in Mathematics (Mathematical Statistics), Heinrich-Heine-University Dusseldorf, 2024 (expected)
 * M.S. in Mathematics, Heinrich-Heine-University Dusseldorf, 2021 \
- Grade: "very good"
+ Grade: "very good" (best possible grade)\
+ Thesis: "Block-Maxima von Zeitreihen mit variablem rechten Randpunkt" (Grade: 1.0, best possible grade)
 * B.S. in Mathematics and Applied Fields, Heinrich-Heine-University Dusseldorf, 2020 \
- Grade: "very good"
+ Grade: "very good" \
+ Thesis: "Der Gumbel Max-Anziehungsbereich in der Extremwerttheorie" (Grade: 1.0, best possible grade)
 
-
-
-
-<!--
-
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
--->
-<!--
-skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams 
-
-
--->
+Volunteer Work
+=====
+* Student advisor for the studies Mathematics and Financial and Actuarial Mathematics at the Heinrich-Heine-University Dusseldorf from 2021 to 2024.
+* Free online tutoring during the pandemic from 2021 to 2022 for pupils at [Lern Fair](https://www.lern-fair.de/).
