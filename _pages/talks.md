@@ -7,7 +7,7 @@ author_profile: true
 Conferences
 ======
 * German Probability and Statistics Days 2023 (March)
-Talk about U-statistics of extremes "2009-10-01-paper-title-number-1.md"
+Talk about U-statistics of extremes 
 <!--
 {% if site.talkmap_link == true %}
 
