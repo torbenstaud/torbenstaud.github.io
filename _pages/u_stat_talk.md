@@ -4,8 +4,8 @@ and sliding block maxima"
 collection: talks
 type: "Talk"
 permalink: /talks/u_stat_talk
-date: 2023-08-03
+date: 2023-06-27
 location: "Essen, Germany"
 ---
 
-I gave a talk about my research topic of extremal U-Statistics: [Link to the slides](../files/U_Stats.pdf)
+I gave a poster presentation about our research topic of extremal U-Statistics: [Link to the poster](../files/U_Stats_poster.pdf)
