@@ -9,13 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+University Education
 ======
-* B.S. in Mathematics and Applied Fields, Heinrich-Heine-University Dusseldorf, 2020 \
- Grade: "very good"
+* Ph.D in Mathematics (Mathematical Statistics), Heinrich-Heine-University Dusseldorf, 2024 (expected)
 * M.S. in Mathematics, Heinrich-Heine-University Dusseldorf, 2021 \
  Grade: "very good"
-* Ph.D in Mathematics (Mathematical Statistics), Heinrich-Heine-University Dusseldorf, 2024 (expected)
+* B.S. in Mathematics and Applied Fields, Heinrich-Heine-University Dusseldorf, 2020 \
+ Grade: "very good"
+
+
 
 
 <!--
