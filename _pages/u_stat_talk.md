@@ -9,4 +9,4 @@ date: 2023-06-27
 location: "Dusseldorf, Germany"
 ---
 
-I gave a talk about our research topic of extremal U-Statistics at the German Probability and Statistics Days 2023 in Essen 2023: [Link to the slides](../files/U_Stats.pdf)
+I gave a talk about our research topic of extremal U-Statistics at the German Probability and Statistics Days 2023 in Essen 2023: [Link to the slides](../files/U_Stats.pdf).    
