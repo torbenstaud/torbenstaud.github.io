@@ -1,4 +1,5 @@
 ---
+layout: archive
 title: "U-Statistics of Extremes"
 collection: talks
 type: "Poster Presentation"
