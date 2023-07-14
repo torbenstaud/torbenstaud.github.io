@@ -1,4 +1,5 @@
 ---
+layout: archive
 title: "U-statistics of extremes based on disjoint
 and sliding block maxima"
 collection: talks
