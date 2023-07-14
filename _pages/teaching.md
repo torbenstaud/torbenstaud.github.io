@@ -4,10 +4,10 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
-** Summer 2023
+# Summer 2023
 Exercises in Real Analysis I (First year Bachelor)
-** Winter 2022/2023
+# Winter 2022/2023
 Exercises in Mathematical Statistics II (Specilisation Masters Course in Mathematics)  
 Exercises in Stochastics (Bachelor Course)
-** Winter 2021/2022
+# Winter 2021/2022
 Exercises in Stochastics (Bachelor Course)
