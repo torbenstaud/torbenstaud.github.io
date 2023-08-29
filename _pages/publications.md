@@ -14,5 +14,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 -->
-{% assign ustat = ../_publications/extreme_u_stats.md %}
-{%include archive-single.html %}
+{% assign posts = site.publications | where_exp: 'show'  %}
+{% for post in posts reversed %}
+  {% include archive-single.html %}
+{% endfor %}
