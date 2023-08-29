@@ -1,12 +1,12 @@
 ---
-title: "Paper Title Number 3"
+title: "Limit theorems for non-degenerate U-statistics of block maxima for time series"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: /publication/extreme_ustats
+excerpt: 'In this paper U-statistics of multivariate disjoint and sliding block maxima for time series are considered. Limit theorems and finite-sample simulation studies are presented.
+date: 29.08.2023
+venue: 'arXiv'
+paperurl: 'https://arxiv.org/abs/2308.13761'
+citation: 'Bücher, A., Staud, T. (2023+). &quot;Limit theorems for non-degenerate U-statistics of block maxima for time series &quot; <i>submitted</i>. 1(1).'
 ---
 This paper is about the number 3. The number 4 is left for future work.
 
