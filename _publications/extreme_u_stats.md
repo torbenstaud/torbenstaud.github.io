@@ -11,6 +11,7 @@ show: 'Yes'
 ---
 
 The block maxima method is a classical and widely applied statistical method for time series extremes. It has recently been found that respective estimators whose asymptotics are driven by empirical means can be improved by using sliding rather than disjoint block maxima. Similar results are derived for general non-degenerate U-statistics of arbitrary order, in the multivariate time series case. Details are worked out for selected examples: the empirical variance, the probability weighted moment estimator and Kendall's tau statistic. The results are also extended to the cases where the underlying sample is piecewise stationary or the time series alpha-mixing. The finite-sample properties are illustrated by a Monte Carlo simulation study.
+
 [Download paper here](https://arxiv.org/pdf/2308.13761)
 
-Recommended citation: Bücher, A., Staud, T. (2023+). "Limit theorems for non-degenerate U-statistics of block maxima for time series." <i>Arxiv preprints 1</i>.
+Bücher, A., Staud, T. (2023+). "Limit theorems for non-degenerate U-statistics of block maxima for time series." <i>Arxiv preprints</i>.
