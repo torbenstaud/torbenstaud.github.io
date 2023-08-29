@@ -14,7 +14,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 -->
-{% assign posts = site.publications | where_exp: 'show'  %}
+{% assign posts = site.publications | where: "show", "Yes"  %}
 {% for post in posts reversed %}
   {% include archive-single.html %}
 {% endfor %}
