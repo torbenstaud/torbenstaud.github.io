@@ -10,7 +10,9 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
--->
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+-->
+{% assign ustat = site.publications | where:"title", "Limit theorems for non-degenerate U-statistics of block maxima for time series" | first %}
+{%include archive-single.html}
