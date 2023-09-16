@@ -9,7 +9,7 @@ redirect_from:
 
 University Education
 ======
-* Ph.D in Mathematics (Mathematical Statistics), Heinrich-Heine-University Dusseldorf 2021-2023, Ruhr University Bochum 2023-2024 (expected)
+* Ph.D in Mathematical Statistics (Mathematische Statistik), Heinrich-Heine-University Dusseldorf 2021-2023, Ruhr University Bochum 2023-2024 (expected)
 * M.S. in Mathematics (Mathematik), Heinrich-Heine-University Dusseldorf, 2021 \
  Grade: "very good" (best possible grade)\
  Thesis: [Block Maxima for Time Series with Varying Upper Bound](../files/ma_staud.pdf) (Grade: 1.0, best possible grade; language: German)
