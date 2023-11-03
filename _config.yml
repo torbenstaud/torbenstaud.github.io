@@ -68,7 +68,7 @@ og_image                 :  # Open Graph/Twitter default site image
 social:
   type                   : Person # Person or Organization (defaults to Person)
   name                   : Torben Staud # If the user or organization name differs from the site's name
-  links: -https://math.ruhr-uni-bochum.de/en/faculty/professorships/stochastics/group-buecher/team/torben-staud/ # An array of links to social media profiles
+  links: [https://math.ruhr-uni-bochum.de/en/faculty/professorships/stochastics/group-buecher/team/torben-staud/] # An array of links to social media profiles
 
 
 # Analytics
@@ -84,7 +84,7 @@ author:
   avatar           : "Staud_res.jpg"
   bio              : "Doctoral Student doing research in Extreme Value Statistics"
   location         : "Bochum, Germany"
-  employer         : "https://math.ruhr-uni-bochum.de/en/faculty/professorships/stochastics/group-buecher/team/torben-staud/"
+  employer         : "Ruhr University Bochum"
   pubmed           : 
   googlescholar    : 
   email            : "torben.staud@rub.de"
