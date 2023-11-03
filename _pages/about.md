@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my website. I am a doctoral student at the Chair of Mathematical Statistics and Probability Theory, [University of Dusseldorf](https://www.math.hhu.de/lehrstuehle-/-personen-/-ansprechpartner/innen/lehrstuehle-des-mathematischen-instituts/lehrstuhl-fuer-mathematische-statistik-und-wahrscheinlichkeitstheorie) and part of [Professor Dr. Axel Bücher's](https://www.math.hhu.de/en/chairs-/-people-/-contact-persons/the-chairs-of-the-mathematical-institute/chair-of-mathematical-statistics-and-calculus-of-probabilities/team/prof-dr-axel-buecher) work group in Mathematical Statistics.
+Welcome to my website. I am a doctoral student at the Chair of Mathematical Statistics, [Ruhr University Bochum](https://math.ruhr-uni-bochum.de/en/faculty/professorships/stochastics/group-buecher/) and part of [Professor Dr. Axel Bücher's](https://math.ruhr-uni-bochum.de/en/faculty/professorships/stochastics/group-buecher/team/axel-buecher/) work group in Mathematical Statistics. From 2021 to 2023 I did research at the University of Dusseldorf. When my doctoral supervisor Professor Bücher moved from the University of Düsseldorf to the Ruhr University, I followed.
 
 [Curriculum Vitae](https://torbenstaud.github.io/cv/)
 
