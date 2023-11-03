@@ -13,6 +13,9 @@ Phone:
 ======
 +49-211-81-12167
 
+[Official University Website](https://math.ruhr-uni-bochum.de/en/faculty/professorships/stochastics/group-buecher/team/torben-staud/)
+======
+
 Adress:
 ------
 Torben Staud (he/him)\
