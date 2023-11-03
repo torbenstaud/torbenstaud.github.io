@@ -7,7 +7,7 @@ author_profile: true
 
 Email:
 ======
-torben[dot]staud[at]hhu[dot]de
+torben[dot]staud[at]rub[dot]de
 
 Phone:
 ======
