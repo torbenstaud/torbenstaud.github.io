@@ -16,8 +16,10 @@ Phone:
 Adress:
 ------
 Torben Staud (he/him)\
-Mathematical Institute\
-Chair of Mathematical Statistics and Probability Theory\
-Universitaetsstr. 1\
-40225 Dusseldorf\
+Ruhr-Uni­ver­si­ty Bochum\
+Faculty of Mathematics\
+Chair of Mathematical Statistics\
+Building IB 2/?\
+Uni­ver­si­taets­stra­sse 150\
+D-44780 Bo­chum\
 Germany
