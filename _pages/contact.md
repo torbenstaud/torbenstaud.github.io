@@ -22,7 +22,7 @@ Torben Staud (he/him)\
 Ruhr-Uni­ver­si­ty Bochum\
 Faculty of Mathematics\
 Chair of Mathematical Statistics\
-Building IB 2/?\
+Building IB 2/175\
 Uni­ver­si­taets­stra­sse 150\
 D-44780 Bo­chum\
 Germany
