@@ -84,7 +84,7 @@ author:
   avatar           : "Staud_res.jpg"
   bio              : "Doctoral Student doing research in Extreme Value Statistics"
   location         : "Bochum, Germany"
-  employer         : "[Ruhr University Bochum](https://math.ruhr-uni-bochum.de/en/faculty/professorships/stochastics/group-buecher/team/torben-staud/)"
+  employer         : "<a href="%https://math.ruhr-uni-bochum.de/en/faculty/professorships/stochastics/group-buecher/team/torben-staud/%">%Ruhr University Bochum%</a>"
   pubmed           : 
   googlescholar    : 
   email            : "torben.staud@rub.de"
