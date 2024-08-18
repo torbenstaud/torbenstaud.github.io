@@ -17,7 +17,10 @@ Phone:
 [Official University Website](https://math.ruhr-uni-bochum.de/en/faculty/professorships/stochastics/group-buecher/team/torben-staud/)
 ======
 
-Adress:
+[LinkedIn](https://www.linkedin.com/in/torben-staud/)
+======
+
+Official work adress:
 ------
 Torben Staud (he/him)\
 Ruhr-Uni­ver­si­ty Bochum\
@@ -27,7 +30,3 @@ Building IB 2/173\
 Uni­ver­si­taets­stra­sse 150\
 D-44780 Bo­chum\
 Germany
-
-
-[LinkedIn](https://www.linkedin.com/in/torben-staud/)
-======
