@@ -43,6 +43,11 @@ University Education
  Thesis: [The Gumbel Max-Domain of Attraction in Extremes](../files/ba_staud.pdf) (Grade: 1.0, best possible grade; language: German)
 
 Volunteer Work
-=====
+======
 * Student advisor for the studies Mathematics and Financial and Actuarial Mathematics at the Heinrich-Heine-University Dusseldorf from 2021 to 2024.
 * Free online tutoring during the pandemic from 2021 to 2022 for pupils at [Lern Fair](https://www.lern-fair.de/).
+
+Languages
+======
+* Business English C1 (Grade 1.3) obtained from the Heinrich-Heine University Dusseldorf
+* German (native language)
