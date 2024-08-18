@@ -15,10 +15,10 @@ Welcome to my website. I am a doctoral student at the Chair of Mathematical Stat
 
 My research interests include
 ------
-1. Extremes of (Non-)Stationary Time Series
-2. Extreme Value Statistics
-3. Asymptotic mathematical statistics
-4. Limit theorems of Extremes
-5. Extreme Value Theory
+1. Extreme Value Statistics of (Non-)Stationary Time Series
+2. High Performance Computing in Applied Statistics
+3. Resampling and Bootstrap Methods in non-standard settings
+4. Mathematical and Applied Statistics
+5. Efficient Algorithms for Extreme Value Statistics
 
 
