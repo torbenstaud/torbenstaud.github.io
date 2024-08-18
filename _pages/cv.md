@@ -22,8 +22,8 @@ Skills
 * **C++**: Coding of mathematical functions, porting to R
 * **Bash**: Scripting for High Performance Computing
 * **Markdown**: Creation of website texts (like my homepage you are seeing right now)
-* **Java**: Full semester course (10CP) for computer science (Grade 1.3)
-* **Statistical Data Analysis**: Full Semester extracurricular course (Grade 1.0)
+* **Java**: Full semester extracurricular course (10CP) of Java programming (Grade 1.3)
+* **Statistical Data Analysis**: Full semester extracurricular course (5CP) of conducting statistical analyses (Grade 1.0)
 * **Github**: Usage for project management and version controll of programming projects and simulation studies
 
 Grants
