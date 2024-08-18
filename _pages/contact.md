@@ -28,6 +28,6 @@ Uni­ver­si­taets­stra­sse 150\
 D-44780 Bo­chum\
 Germany
 
-======
+
 [LinkedIn](https://www.linkedin.com/in/torben-staud/)
 ======
