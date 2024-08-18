@@ -3,7 +3,7 @@ layout: archive
 title: "Graphical Lasso in high dimensions"
 collection: talks
 type: "Talk"
-permalink: /talks/u_stat_talk
+permalink: /talks/lasso_talk
 date: 2024-01-16
 location: "Bochum, Germany"
 ---
