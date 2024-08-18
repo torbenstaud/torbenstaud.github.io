@@ -17,8 +17,20 @@ Scientific projects
 
 Skills
 ======
-* R: Experience of 4 years working with the statistical programming language comprising
-* Bla2
+* **Statistics**: 5 years of experience in applied an mathematical statistics (point estimation, confidence bands, bootstrapping, hypothesis testing, surival analysis, monte carlo simulations, Markov chains)
+* **R**: Experience of 4 years scientific work comprising: Planning, coneption and conduction of large scale monte carlo simulation studies; Rcpp optimization; HPC incorporation; unit testing; microbenchmarking
+* **C++**: Coding of mathematical functions, porting to R
+* **Bash**: Scripting for High Performance Computing
+* **Markdown**: Creation of website texts (like my homepage you are seeing right now)
+* **Java**: Full semester course (10CP) for computer science (Grade 1.3)
+* **Statistical Data Analysis**: Full Semester extracurricular course (Grade 1.0)
+* **Github**: Usage for project management and version controll of programming projects and simulation studies
+
+Grants
+======
+* International research stay grant: funding for my project proposal of <i>Sliding block maxima under non-stationarities </i>. Comprised of 2 months abroad stay in Belgium at the [ISBA](https://uclouvain.be/en/research-institutes/lidam/isba) under the supervision of [Prof. Segers](https://perso.uclouvain.be/johan.segers/). **Awarded to Torben Staud**
+* Heinrich-Heine University Stipend: performance based stipend granted by the Heinrich-Heine University and funded by the Provinzial Rheinland Versicherungen AG. **Awarded to Torben Staud**
+* [DFG project 465665892](https://gepris.dfg.de/gepris/projekt/465665892) funding of my PhD for the duration of three years. **Awarded to Prof. Axel Bücher**.
 
 University Education
 ======
