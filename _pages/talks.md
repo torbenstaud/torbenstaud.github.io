@@ -12,4 +12,4 @@ International conferences
 
 Local seminars
 ======
-* **Workshop: Statistics in high dimensions** (2024) in Bochum: Presentation about the [Graphical Lasso](../_pages/lasso_talk.md) in high dimensions.
+* **Workshop: Statistics in high dimensions** (2024) in Bochum: Presentation about the [Graphical Lasso](../_pages/lasso_alk.md) in high dimensions.
