@@ -7,6 +7,19 @@ redirect_from:
   - /resume
 ---
 
+
+
+Scientific projects
+======
+* Bootstrapping block maxima estimators in time series (finished in 2024 and resulted in a [submission](../_publications/extremes_bootstrap.md) to TBD
+* U-Statistics of block maxima in time series (finished in 2023 and resulted in a [publication](../_publications/extreme_u_stats.md) in the renown Electronical Journal of Statistics)
+
+
+Skills
+======
+* R: Experience of 4 years working with the statistical programming language comprising
+* Bla2
+
 University Education
 ======
 * Ph.D in Mathematical Statistics (Mathematische Statistik), Heinrich-Heine-University Dusseldorf 2021-2023, Ruhr University Bochum 2023-2024 (expected)
