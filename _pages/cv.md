@@ -51,5 +51,5 @@ Volunteer Work
 
 Languages
 ======
-* Business English C1 (Grade 1.3) obtained from the Heinrich-Heine University Dusseldorf
+* Business English level C1 (Grade 1.3) obtained from the Heinrich-Heine University Dusseldorf
 * German (native language)
