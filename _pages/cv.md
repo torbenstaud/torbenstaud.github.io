@@ -29,7 +29,7 @@ Skills
 
 Grants
 ======
-* International research stay grant: funding for my project proposal of <i>Sliding block maxima under non-stationarities </i>. Comprised of 2 months abroad stay in Belgium at the [ISBA](https://uclouvain.be/en/research-institutes/lidam/isba) under the supervision of [Prof. Segers](https://perso.uclouvain.be/johan.segers/). **Awarded to Torben Staud**
+* International research stay grant: funding for my project proposal of <i>Sliding block maxima under non-stationarities</i>. Comprised of 2 months abroad stay in Belgium at the [ISBA](https://uclouvain.be/en/research-institutes/lidam/isba) under the supervision of [Prof. Segers](https://perso.uclouvain.be/johan.segers/). **Awarded to Torben Staud**
 * Heinrich-Heine University Stipend: performance based stipend granted by the Heinrich-Heine University and funded by the Provinzial Rheinland Versicherungen AG. **Awarded to Torben Staud**
 * [DFG project 465665892](https://gepris.dfg.de/gepris/projekt/465665892) funding of my PhD for the duration of three years. **Awarded to Prof. Axel Bücher**.
 
