@@ -17,13 +17,14 @@ Scientific projects
 
 Skills
 ======
-* **Statistics**: 5 years of experience in applied an mathematical statistics (point estimation, confidence bands, bootstrapping, hypothesis testing, surival analysis, monte carlo simulations, Markov chains)
+* **Statistics**: 5 years of experience in applied an mathematical statistics (point estimation, confidence bands, bootstrapping, hypothesis testing, regression analysis, surival analysis, monte carlo simulations, Markov chains)
 * **R**: Experience of 4 years scientific work comprising: Planning, coneption and conduction of large scale monte carlo simulation studies; Rcpp optimization; HPC incorporation; unit testing; microbenchmarking
 * **C++**: Coding of mathematical functions, porting to R
 * **Bash**: Scripting for High Performance Computing
 * **Markdown**: Creation of website texts (like my homepage you are seeing right now)
 * **Java**: Full semester extracurricular course (10CP) of Java programming (Grade 1.3)
 * **Statistical Data Analysis**: Full semester extracurricular course (5CP) of conducting statistical analyses (Grade 1.0)
+* **High dimensional statistics**: Multiple years experience using machine learning, data science and deep learning algorithms as clustering; lasso-/ridge regression; k-nearest neighbours; neural networks; Chat-GPT prompting
 * **Github**: Usage for project management and version controll of programming projects and simulation studies
 
 Grants
@@ -44,8 +45,9 @@ University Education
 
 Volunteer Work
 ======
-* Student advisor for the studies Mathematics and Financial and Actuarial Mathematics at the Heinrich-Heine-University Dusseldorf from 2021 to 2024.
-* Free online tutoring during the pandemic from 2021 to 2022 for pupils at [Lern Fair](https://www.lern-fair.de/).
+* Grant committee work for the [Research School](https://www.research-school.rub.de): reviewing and evaluating grant proposals by other researcher
+* Student advisor for the studies Mathematics and Financial and Actuarial Mathematics at the Heinrich-Heine-University Dusseldorf from 2021 to 2024
+* Free online tutoring during the pandemic from 2021 to 2022 for pupils at [Lern Fair](https://www.lern-fair.de/)
 
 Languages
 ======
