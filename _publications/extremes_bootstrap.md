@@ -1,11 +1,11 @@
 ---
-title: 'Bootstrapping block maxima estimators in time series'
+title: 'Bootstrapping Estimators based on the Block Maxima Method'
 collection: publications
 permalink: /publication/extreme_bootstraps
 excerpt: 'In this paper bootstrapping of block maxima estimators are considered. Consistency results, limit theorems are provivded. Large scale High Performance Cluster-powered simulation studies are conducted. The application is demonstrated via a case study involving S&P-500 log-returns.'
 date: '2024-08-26'
 venue: 'TBD'
-citation: 'Bücher, A., Staud, T. (2024). &quot;Bootstrapping block maxima estimators in time series&quot; <i>TBD</i>'
+citation: 'Bücher, A., Staud, T. (2024). &quot;Bootstrapping Estimators based on the Block Maxima Method&quot; <i>TBD</i>'
 show: 'Yes'
 ---
 
