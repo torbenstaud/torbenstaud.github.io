@@ -11,6 +11,7 @@ redirect_from:
 
 Scientific projects
 ======
+* On the maximal correlation coefficient for the bivariate Marshall Olkin distributio (finished in 2024 and resulted in a [submission](../_publications/mo_maxcorr.md) to the Journal *Statistics & Probability Letters*)
 * Bootstrapping block maxima estimators in time series (finished in 2024 and resulted in a [submission](../_publications/extremes_bootstrap.md) to the renown *Journal of the Royal Statistical Society, Series B (Statistical Methodology)*)
 * U-Statistics of block maxima in time series (finished in 2023 and resulted in a [publication](../_publications/extreme_u_stats.md) in the renown *Electronical Journal of Statistics*)
 
