@@ -13,4 +13,5 @@ We prove a formula for the maximal correlation coefficient of the bivariate Mars
 
 
 <!-- [PROJECT euclid entry](https://projecteuclid.org/journals/electronic-journal-of-statistics/volume-18/issue-2/Limit-theorems-for-non-degenerate-U-statistics-//of-block-maxima/10.1214/24-EJS2269.full),
- [arXiv entry](https://arxiv.org/abs/2308.13761) -->
+-->
+ [arXiv entry](https://arxiv.org/abs/2409.08661)
