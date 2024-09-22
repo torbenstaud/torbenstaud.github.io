@@ -18,7 +18,7 @@ Scientific projects
 
 Skills
 ======
-* **Statistics**: 5 years of experience in applied an mathematical statistics (point estimation, confidence bands, bootstrapping, hypothesis testing, regression analysis, surival analysis, monte carlo simulations, Markov chains)
+* **Statistics**: 5 years of experience in applied and mathematical statistics (point estimation, confidence bands, bootstrapping, hypothesis testing, regression analysis, surival analysis, monte carlo simulations, Markov chains)
 * **R**: Experience of 4 years scientific work comprising: Planning, coneption and conduction of large scale monte carlo simulation studies; Rcpp optimization; HPC incorporation; unit testing; microbenchmarking
 * **C++**: Coding of mathematical functions, porting to R
 * **Bash**: Scripting for High Performance Computing
