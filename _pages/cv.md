@@ -12,22 +12,21 @@ redirect_from:
 Scientific projects
 ======
 * On the maximal correlation coefficient for the bivariate Marshall Olkin distribution (finished in 2024 and resulted in a [submission](../_publications/mo_maxcorr.md) to the Journal *Statistics & Probability Letters*)
-* Bootstrapping block maxima estimators in time series (finished in 2024 and resulted in a [submission](../_publications/extremes_bootstrap.md) to the renowned *Journal of the Royal Statistical Society, Series B (Statistical Methodology)*)
+* Bootstrapping block maxima estimators in time series (finished in 2024 and resulted in a [submission](../_publications/extremes_bootstrap.md) to the *Journal of the Royal Statistical Society, Series B (Statistical Methodology)*)
 * U-Statistics of block maxima in time series (finished in 2023 and resulted in a [publication](../_publications/extreme_u_stats.md) in the renowned *Electronical Journal of Statistics*)
 
 
 Skills
 ======
-* **Statistics**: 5 years of experience in applied and mathematical statistics (point estimation, confidence bands, bootstrapping, hypothesis testing, regression analysis, survival analysis, Monte Carlo simulations, Markov chains)
+* **Statistics**: 5 years of experience in applied and mathematical statistics
 * **R**: 4 years of experience in scientific work, including planning, conception, and execution of large-scale Monte Carlo simulation studies; Rcpp optimization; HPC integration; unit testing; microbenchmarking
 * **C++**: Coding mathematical functions, porting them to R
 * **Bash**: Scripting for High-Performance Computing
 * **Markdown**: Creating website texts (like this homepage)
 * **Java**: Full-semester extracurricular course (10 CP) in Java programming (Grade 1.3)
 * **Statistical Data Analysis**: Full-semester extracurricular course (5 CP) in conducting statistical analyses (Grade 1.0)
-* **High-dimensional statistics**: Multiple years of experience with machine learning, data science, and deep learning algorithms, including clustering, Lasso-/Ridge regression, k-nearest neighbors, neural networks, and ChatGPT prompting
-* **GitHub**: Used for project management and version control of programming projects and simulation studies
-
+* **GitHub**: Used for project management and version control of simulation studies
+<!---  **High-dimensional statistics**: Multiple years of experience with machine learning, data science, and deep learning algorithms, including clustering, Lasso-/Ridge regression, k-nearest neighbors, neural networks, and ChatGPT prompting --->
 
 Grants
 ======
@@ -49,8 +48,7 @@ University Education
 
 Volunteer Work
 ======
-* Grant committee member for the [Research School](https://www.research-school.rub.de): Reviewing and evaluating grant proposals from other researchers
-* Student advisor for Mathematics and Financial and Actuarial Mathematics at the Heinrich-Heine-University Düsseldorf (2021-2024)
+* Student advisor for Mathematics (B.Sc. and M.Sc.) at the Heinrich-Heine-University Düsseldorf (2022-2023)
 * Free online tutoring for pupils during the pandemic (2021-2022) at [Lern Fair](https://www.lern-fair.de/)
 
 
