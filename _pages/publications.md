@@ -21,8 +21,11 @@ author_profile: true
 
 <h2 style="text-align:center; margin-top:40px;">Theses</h2>
 
-
+{% capture theses_output %}
 {% assign theses = site.publications | where: "type", "Thesis" %}
 {% for thesis in theses reversed %}
   {% include archive-single.html %}
 {% endfor %}
+{% endcapture %}
+
+{{ theses_output }}
