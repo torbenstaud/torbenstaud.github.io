@@ -7,7 +7,6 @@ date: '2020-03-16'
 venue: 'Heinrich-Heine-University Düsseldorf'
 citation: 'Staud, T. (2020). &quot;The Gumbel Max-Domain of Attraction in Extremes &quot; '
 type: 'Thesis'
-show: 'Yes'
 ---
 
 WRITE WRITE WRITE
