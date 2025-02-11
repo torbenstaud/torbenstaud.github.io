@@ -18,3 +18,11 @@ author_profile: true
 {% for post in posts reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+<h2 style="text-align:center; margin-top:40px;">Theses</h2>
+
+
+{% assign theses = site.publications | where: "type", "Thesis" %}
+{% for thesis in theses reversed %}
+  {% include archive-single.html %}
+{% endfor %}
