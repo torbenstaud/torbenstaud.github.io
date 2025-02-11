@@ -20,9 +20,9 @@ author_profile: true
 {% endfor %}
 
 <h1 style="text-align:center; margin-top:40px;">Theses</h1>
-
 {% capture theses_output %}
 {% assign theses = site.publications | where: "type", "Thesis" %}
+<p>Anzahl der gefundenen Theses: {{ theses | size }}</p>
 {% for thesis in theses reversed %}
   {% include archive-single.html %}
 {% endfor %}
