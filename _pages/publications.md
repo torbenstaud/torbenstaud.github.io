@@ -23,7 +23,7 @@ author_profile: true
 {% capture theses_output %}
 {% assign theses = site.publications | where: "type", "Thesis" %}
 {% for post in theses reversed %}
-  {% include archive-single.html %}
+  {% include archive-single-thesis.html %}
 {% endfor %}
 {% endcapture %}
 
