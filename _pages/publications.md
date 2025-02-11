@@ -22,12 +22,7 @@ author_profile: true
 <h1 style="text-align:center; margin-top:40px;">Theses</h1>
 {% capture theses_output %}
 {% assign theses = site.publications | where: "type", "Thesis" %}
-<ul>
-{% for thesis in theses reversed %}
-  <li>{{ thesis.title }} ({{ thesis.date }})</li>
-{% endfor %}
-</ul>
-{% for thesis in theses reversed %}
+{% for post in theses reversed %}
   {% include archive-single.html %}
 {% endfor %}
 {% endcapture %}
