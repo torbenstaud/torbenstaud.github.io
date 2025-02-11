@@ -11,6 +11,7 @@ redirect_from:
 
 Scientific projects
 ======
+* Statistical inference on models for non-stationary extremes (ongoing research)
 * On the maximal correlation coefficient for the bivariate Marshall Olkin distribution (finished in 2024 and resulted in a [publication](../_publications/mo_maxcorr.md) in the Journal *Statistics & Probability Letters*)
 * Bootstrapping block maxima estimators in time series (finished in 2024 and resulted in a [submission](../_publications/extremes_bootstrap.md) to the *Journal of the Royal Statistical Society, Series B (Statistical Methodology)*)
 * U-Statistics of block maxima in time series (finished in 2023 and resulted in a [publication](../_publications/extreme_u_stats.md) in the renowned *Electronical Journal of Statistics*)
@@ -37,7 +38,11 @@ Grants
 
 University Education
 ======
-* Ph.D. in Mathematical Statistics (Mathematische Statistik), Heinrich-Heine-University Düsseldorf (2021-2023), Ruhr University Bochum (2023-2024, expected)
+* Ph.D. in Mathematical Statistics (Mathematische Statistik), \
+Heinrich-Heine and Ruhr universities of Düsseldorf and Bochum (Nov 2023 – Feb 2025). \
+Thesis: On the sliding block maxima method in extreme value statistics (submitted Nov 2024), \
+Oral examination: Feb 2025 at the Ruhr-university Bochum, \
+Grade: Summa cum laude (oral defense), Magna cum laude (thesis)
 * M.S. in Mathematics (Mathematik), Heinrich-Heine-University Düsseldorf, 2021 \
   Grade: "very good" (best possible grade) \
   Thesis: [Block Maxima for Time Series with Varying Upper Bound](../files/ma_staud.pdf) (Grade: 1.0, best possible grade; language: German)
