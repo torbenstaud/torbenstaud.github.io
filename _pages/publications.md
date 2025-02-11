@@ -19,13 +19,10 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-<h1 style="text-align:center; margin-top:40px;">Theses</h1>
+<div style="text-align:center;">
+  
+Theses  
+======  
 
-{% capture theses_output %}
-{% assign theses = site.publications | where: "type", "Thesis" %}
-{% for thesis in theses reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-{% endcapture %}
+</div>
 
-{{ theses_output }}
