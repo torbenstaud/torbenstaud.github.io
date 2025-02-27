@@ -14,7 +14,7 @@ Phone:
 +49-234-32-23425 (University of Bochum) \
 +49-211-81-12167 (University of Duesseldorf)
 
-[Official University Website](https://math.ruhr-uni-bochum.de/en/faculty/professorships/stochastics/group-buecher/team/torben-staud/)
+[Official University Website](https://math.ruhr-uni-bochum.de/en/faculty/professorships/stochastics/group-buecher/staff/torben-staud/)
 ======
 
 [LinkedIn](https://www.linkedin.com/in/torben-staud/)
