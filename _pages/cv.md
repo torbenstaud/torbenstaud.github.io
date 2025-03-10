@@ -40,7 +40,7 @@ University Education
 ======
 * Ph.D. in Mathematical Statistics (Mathematische Statistik), \
 Heinrich-Heine and Ruhr universities of Düsseldorf and Bochum (Nov 2023 – Feb 2025). \
-Thesis: On the Sliding Block Maxima Method in Extreme Value Statistics (submitted Nov 2024), \
+Thesis: [On the Sliding Block Maxima Method in Extreme Value Statistics](../files/diss_staud.pdf) submitted Nov 2024, \
 Oral examination: Feb 2025 at the Ruhr-university Bochum, \
 Grade: Summa cum laude (oral defense), Magna cum laude (thesis)
 * M.S. in Mathematics (Mathematik), Heinrich-Heine-University Düsseldorf, 2021 \
