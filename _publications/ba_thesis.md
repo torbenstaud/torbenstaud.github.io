@@ -11,7 +11,7 @@ supervisor: 'Prof. Axel Bücher, Prof. Peter Kern'
 ---
 
 
-
+In the following I present an easy and digestable introduction to the topic of my Bachelor's thesis ([Link](/files/ba_staud.pdf)).
 # When are Extremes Truly Extreme?  
 Records are broken every year; whether in temperatures, rainfall, financial crashes, or athletic performances. Understanding the behavior of **extremes** is not just an academic curiosity; it has tangible consequences for risk assessment, infrastructure planning, and financial stability. But how do we determine **how extreme an event can be?**
 
@@ -47,4 +47,4 @@ This plot illustrates a fundamental property: As the sample size grows, the dist
 
 By refining the characterization of the Gumbel maximum domain of attraction, my research provides a more direct and verifiable condition for identifying whether a dataset follows this pattern.
 
-If you’d like to learn more and understand the mathematics behind it in depth, feel free to check the full work -please note, it is available only in the German language.
+If you’d like to learn more and understand the mathematics behind it in depth, feel free to check the full work; please note, it is available only in the German language: [Thesis](/files/ba_staud.pdf).
