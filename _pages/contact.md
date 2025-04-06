@@ -12,7 +12,7 @@ torben[dot]staud[at]gmail[dot]com
 [LinkedIn](https://www.linkedin.com/in/torben-staud/)
 ======
 
-Official work adress:
+<!-- Official work adress:
 ======
 Torben Staud, PhD\
 d-fine GmbH\
@@ -21,4 +21,4 @@ D-40211 Düsseldorf\
 Germany\
 An der Hauptwache 7\
 D-60313 Frankfurt\
-Germany
+Germany -->

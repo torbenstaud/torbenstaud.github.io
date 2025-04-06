@@ -84,7 +84,7 @@ author:
   avatar           : "github.png"
   bio              : "Consultant in financial services"
   location         : "Düsseldorf, Germany"
-  employer         : "d-fine GmbH"
+  employer         : #"d-fine GmbH"
   pubmed           : 
   googlescholar    : 
   email            : "torben.staud@gmail.com"
