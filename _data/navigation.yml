@@ -1,5 +1,14 @@
 # main links links
 main:
+  - title: "CV"
+    url: /cv/
+    
+  - title: "Contact"
+    url: /contact/
+
+  - title: "Software"
+    url: /software
+    
   - title: "Publications"
     url: /publications/
 
@@ -10,11 +19,7 @@ main:
     url: /teaching/    
     
     
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Contact"
-    url: /contact/
+  
   
  # - title: "Construction"
  #   url: /markdown/
