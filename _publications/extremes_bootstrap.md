@@ -3,9 +3,9 @@ title: 'Bootstrapping Estimators based on the Block Maxima Method'
 collection: publications
 permalink: /publication/extreme_bootstraps
 excerpt: 'In this paper bootstrapping of block maxima estimators is considered. Consistency results and limit theorems are provivded. Large scale High Performance Cluster-powered simulation studies are conducted. The application is demonstrated via a case study involving precipation extremes at a weather station in Germany.'
-date: '2024-09-09'
-venue: 'TBD'
-citation: 'Bücher, A., Staud, T. (2024). &quot;Bootstrapping Estimators based on the Block Maxima Method&quot; <i>TBD</i>'
+date: '2025-09-09'
+venue: 'Journal of the Royal Statistical Society, Series B (Statistical Methodology)'
+citation: 'Bücher, A., Staud, T. (2025). &quot;Bootstrapping Estimators based on the Block Maxima Method&quot; <i>To appear in: Journal of the Royal Statistical Society, Series B (Statistical Methodology)</i>'
 show: 'Yes'
 ---
 

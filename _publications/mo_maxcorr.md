@@ -3,7 +3,7 @@ title: 'On the maximal correlation coefficient for the bivariate Marshall Olkin 
 collection: publications
 permalink: /publication/mo_maxcorr
 excerpt: 'We prove a formula for the maximal correlation coefficient of the bivariate Marshall Olkin distribution that was conjectured in Lin, Lai, and Govindaraju (2016, Stat. Methodol., 29:1–9).'
-date: '2024-09-13'
+date: '2024-09-15'
 venue: 'Statistics & Probability Letters'
 citation: 'Bücher, A., Staud, T. (2025). &quot;On the maximal correlation coefficient for the bivariate Marshall Olkin distribution&quot; <i>Statistics and Probability Letters, </i>Vol. 219, 110323.'
 show: 'Yes'
