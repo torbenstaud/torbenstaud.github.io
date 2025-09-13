@@ -11,10 +11,10 @@ redirect_from:
 
 Scientific projects
 ======
-* Statistical inference on models for non-stationary extremes (ongoing research)
-* On the maximal correlation coefficient for the bivariate Marshall Olkin distribution (finished in 2024 and resulted in a [publication](../_publications/mo_maxcorr.md) in the Journal *Statistics & Probability Letters*)
-* Bootstrapping block maxima estimators in time series (finished in 2024 and resulted in a [submission](../_publications/extremes_bootstrap.md) to the *Journal of the Royal Statistical Society, Series B (Statistical Methodology)*)
-* U-Statistics of block maxima in time series (finished in 2023 and resulted in a [publication](../_publications/extreme_u_stats.md) in the renowned *Electronical Journal of Statistics*)
+* Statistical inference on models for non-stationary extremes: ***ongoing research***
+* Bootstrapping block maxima estimators for time series: resulted in a [publication](../_publications/extremes_bootstrap.md) in the ***Journal of the Royal Statistical Society, Series B***)
+* On the maximal correlation coefficient for the bivariate Marshall Olkin distribution: resulted in a [publication](../_publications/mo_maxcorr.md) in ***Statistics & Probability Letters***
+* U-Statistics of block maxima for time series: resulted in a [publication](../_publications/extreme_u_stats.md) in ***Electronical Journal of Statistics***
 
 
 Skills

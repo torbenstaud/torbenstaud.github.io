@@ -10,6 +10,8 @@ type: 'Thesis'
 supervisor: 'Prof. Axel Bücher, Prof. Peter Kern'
 ---
 
-WRITE WRITE WRITE
 
+# Teaser
+What happens when the laws of chance meet the rare and the extreme—the floods of a century, the record heatwave, or the financial crash no one saw coming? This thesis ventures into that very territory, where mathematics tries to capture the seemingly unpredictable. Building on the foundations of extreme value theory, I explored how the classical tools begin to break down once real-world data refuses to fit the neat assumptions of textbooks. Out of this challenge, I developed new theoretical results, adapted statistical methods to more complex settings, and tested their performance in large-scale simulations. The outcome: a fresh perspective on how to model extremes when the rules of stability no longer apply.
 
+[Link](/files/ma_staud.pdf) to the thesis (written in german).

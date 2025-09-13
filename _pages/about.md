@@ -20,7 +20,7 @@ This homepage is mainly an artifact from my time at the university. So you will 
 
 Welcome! I’m a **consultant at d-fine**, where I bring analytical thinking and statistical expertise into data-driven solutions for complex real-world problems.
 
-Before joining d-fine, I completed my PhD in **Extreme Value Statistics** at the universities of Düsseldorf and Bochum, supervised by [Prof. Dr. Axel Bücher](https://math.ruhr-uni-bochum.de/en/faculty/professorships/stochastics/group-buecher/staff/axel-buecher/).  
+Before joining d-fine, I completed my PhD in **Extreme Value Statistics** at the universities of Düsseldorf and Bochum, supervised by [Prof. Dr. Axel Bücher](https://math.ruhr-uni-bochum.de/en/faculty/professorships/stochastics/group-buecher/staff/axel-buecher/). 
 My research focused on developing new methods to quantify uncertainty in the face of rare and high-impact events – such as financial crises or extreme weather.  
 
 Along the way, I published in international journals, presented at conferences across Europe, and completed a funded research stay in Belgium.
