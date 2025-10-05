@@ -5,9 +5,10 @@ permalink: /publication/extreme_bootstraps
 excerpt: 'In this paper bootstrapping of block maxima estimators is considered. Consistency results and limit theorems are provivded. Large scale High Performance Cluster-powered simulation studies are conducted. The application is demonstrated via a case study involving precipation extremes at a weather station in Germany.'
 date: '2025-09-09'
 venue: 'Journal of the Royal Statistical Society, Series B (Statistical Methodology)'
-citation: 'Bücher, A., Staud, T. (2025). &quot;Bootstrapping Estimators based on the Block Maxima Method&quot; <i>To appear in: Journal of the Royal Statistical Society, Series B (Statistical Methodology)</i>'
+citation: 'Bücher, A., Staud, T. (2025). &quot;Bootstrapping Estimators based on the Block Maxima Method&quot; <i>Journal of the Royal Statistical Society: Series B (Statistical Methodology)</i>: Vol. 87'
 show: 'Yes'
 ---
+
 
 The block maxima method is a standard approach for analyzing the extremal behavior of a potentially multivariate time series.
 It has recently been found that the classical approach based on disjoint block maxima may be universally improved by considering sliding block maxima instead.
