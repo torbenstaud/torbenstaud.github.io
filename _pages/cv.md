@@ -12,7 +12,7 @@ Scientific Projects
 
 * Statistical inference on models for non-stationary extremes — ***ongoing research***
 * Developed an `R` package with a `C++` backend for bootstrapping block maxima, published on [CRAN](https://cran.r-project.org/package=maxbootR)
-* Bootstrapping block maxima estimators for time series — resulted in a [publication](../_publications/extremes_bootstrap.md) in the ***Journal of the Royal Statistical Society: Series B***
+* Bootstrapping block maxima estimators for time series — resulted in a [publication](../_publications/extremes_bootstrap.md) in the ***Journal of the Royal Statistical Society: Statistical Methodology***
 * On the maximal correlation coefficient for the bivariate Marshall–Olkin distribution — resulted in a [publication](../_publications/mo_maxcorr.md) in ***Statistics & Probability Letters***
 * U-statistics of block maxima for time series — resulted in a [publication](../_publications/extreme_u_stats.md) in the ***Electronic Journal of Statistics***
 
