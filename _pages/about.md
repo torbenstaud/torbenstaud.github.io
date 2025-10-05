@@ -18,7 +18,7 @@ If you're curious, here’s my [Curriculum Vitae](https://torbenstaud.github.io/
 
 This homepage is mainly an artifact from my time at the university. So you will find a lot of research related information on which I am not working anymore. -->
 
-Welcome! I’m a **consultant at d-fine**, where I bring analytical thinking and statistical expertise into data-driven solutions for complex real-world problems.
+Welcome to my private homepage! I’m a **consultant at d-fine**, where I bring analytical thinking and statistical expertise into data science-driven solutions for complex quantitative banking problems.
 
 Before joining d-fine, I completed my PhD in **Extreme Value Statistics** at the universities of Düsseldorf and Bochum, supervised by [Prof. Dr. Axel Bücher](https://math.ruhr-uni-bochum.de/en/faculty/professorships/stochastics/group-buecher/staff/axel-buecher/). 
 My research focused on developing new methods to quantify uncertainty in the face of rare and high-impact events – such as financial crises or extreme weather.  
