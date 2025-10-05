@@ -3,6 +3,7 @@ layout: archive
 title: "Teaching"
 permalink: /teaching/
 author_profile: true
+nav_exclude: true
 ---
 # Summer 2024: Bochum
 Excercises in Statistics I (Bachelor course for Mathematics students)
