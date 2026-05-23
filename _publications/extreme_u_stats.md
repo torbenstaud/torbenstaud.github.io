@@ -5,7 +5,7 @@ permalink: /publication/extreme_ustats
 excerpt: 'In this paper U-statistics of multivariate disjoint and sliding block maxima for time series are considered. Limit theorems and finite-sample simulation studies are presented.'
 date: '2024-07-13'
 venue: 'Electronic Journal of Statistics'
-citation: 'Bücher, A., Staud, T. (2024). &quot;Limit theorems for non-degenerate U-statistics of block maxima for time series &quot; <i>Electron. J. Statist. </i>18(2): 2850-2885.'
+citation: 'Bücher, A., Staud, T. (2024). &quot;Limit theorems for non-degenerate U-statistics of block maxima for time series&quot; <i>Electron. J. Statist. </i>18(2): 2850-2885.'
 show: 'Yes'
 ---
 
