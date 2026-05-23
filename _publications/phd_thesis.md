@@ -10,11 +10,65 @@ type: 'Thesis'
 supervisor: 'Prof. Axel Bücher'
 ---
 
-# Teaser
-Extremes shape our world. They are the floods that break dams, the heatwaves that strain cities, and the financial shocks that unsettle global markets. Capturing these rare but powerful events is one of the great challenges of modern statistics. This dissertation explores a new way forward: the sliding block maxima method. Where classical approaches often waste information or falter under real-world complexity, this method offers sharper insights and more reliable estimates.
+# Abstract
 
-In this work, I prove fundamental theorems that extend the mathematical foundations of the method, develop new tools to make it practical—including a universal bootstrap scheme—and even solve an open problem in probability theory to show why sliding blocks outperform their classical counterpart. Large-scale simulations and a real-world case study on precipitation extremes confirm the power of these ideas.
+## What is this thesis about?
 
-[Link](/files/diss_staud.pdf) to the PhD thesis.
+Extreme events play an important role in many real-world applications — for example heavy rainfall, financial crashes, or unusually large technical loads. To better understand and quantify such rare events, this thesis studies statistical methods for analyzing so-called *extreme values*.
 
+A classical approach divides data into blocks and only considers the largest observation within each block (*block maxima method*). More recent approaches use overlapping blocks instead of completely separate ones (*sliding blocks*). This allows more information from the data to be used and can lead to substantially more precise statistical estimates.
 
+---
+
+# Main Contributions
+
+## Advantages of Sliding Blocks
+
+The thesis systematically shows that the sliding block maxima method outperforms the classical disjoint block approach in many situations:
+
+- lower statistical uncertainty,
+- comparable levels of bias,
+- more stable estimation for dependent data such as time series.
+
+To establish these results, the thesis develops general mathematical theory for broad classes of estimators, including methods based on U-statistics from non-parametric statistics.
+
+---
+
+# Applications
+
+The theoretical findings are applied to several important problems, including:
+
+- estimation of extreme value characteristics,
+- measuring dependence between extreme events (*tail dependence*),
+- analysis of non-stationary time series,
+- applications to precipitation data.
+
+Large-scale Monte Carlo simulation studies are conducted throughout the thesis and confirm the theoretical advantages of the sliding block approach in practical finite-sample settings.
+
+---
+
+# New Bootstrap Methods
+
+Another major contribution is the development of new bootstrap procedures designed specifically for block maxima estimators. These methods allow practitioners to:
+
+- quantify estimation uncertainty,
+- construct confidence intervals,
+- estimate variances in a practical and reliable way.
+
+Importantly, the proposed bootstrap methods avoid the additional tuning parameters that are often required in bootstrap procedures for time series data.
+
+The thesis also proves the mathematical consistency and asymptotic normality of these new methods.
+
+---
+
+# Theoretical Contribution
+
+Finally, the thesis solves an open mathematical problem related to the well-known *Marshall–Olkin bivariate exponential distribution*. This result provides a new proof explaining why sliding block estimators are fundamentally more efficient than classical disjoint block estimators.
+
+---
+
+# Summary
+
+This thesis develops new theoretical and practical tools for the statistical analysis of extreme events. Overall, the results demonstrate that:
+
+> Sliding block maxima methods provide more precise and statistically efficient inference than classical disjoint block approaches in a wide range of applications.
