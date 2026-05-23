@@ -42,6 +42,8 @@ hist(maxima, probability = TRUE, breaks = 30, main = "Maxima from Normal Distrib
 curve(dnorm(x, mean = mean(maxima), sd = sd(maxima)), add = TRUE, col = "red", lwd = 2)
 ```
 
+![Histogram of simulated maxima from normal distributions with fitted normal density](/images/gumbel-maxima-normal.png)
+
 This plot illustrates a fundamental property: As the sample size grows, the distribution of the observed maxima approaches a predictable form—one that, under the right conditions, converges to the Gumbel distribution.
 # Why This Matters
 
