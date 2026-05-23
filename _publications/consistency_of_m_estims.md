@@ -5,7 +5,7 @@ permalink: /publication/m_estims
 excerpt: 'This paper explores strong and weak consistency of M-estimators for non-identically distributed data.'
 date: '2025-11-14'
 venue: 'tbd'
-citation: 'Bücher et. al. (2025+). &quot;Consistency of M-estimators for non-identically distributed data: the case of fixed-design distributional regression.&quot;'
+citation: 'Bücher et. al. (2025+). &quot;Consistency of M-estimators for non-identically distributed data: the case of fixed-design distributional regression&quot;'
 show: 'Yes'
 ---
 
