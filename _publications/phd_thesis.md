@@ -30,7 +30,8 @@ The thesis systematically shows that the sliding block maxima method outperforms
 - comparable levels of bias,
 - more stable estimation for dependent data such as time series.
 
-To establish these results, the thesis develops general mathematical theory for broad classes of estimators, including methods based on U-statistics from non-parametric statistics.
+To establish these results, the thesis develops general mathematical theory for broad classes of estimators, including methods based on U-statistics from non-parametric statistics. The quotient of estimation MSEs of disjoint block vs sliding block mostly looks like this:
+![MSE quotient for mean estimation](/images/asy_var_quot_mean.png)
 
 ---
 
@@ -49,13 +50,14 @@ Large-scale Monte Carlo simulation studies are conducted throughout the thesis a
 
 # New Bootstrap Methods
 
-Another major contribution is the development of new bootstrap procedures designed specifically for block maxima estimators. These methods allow practitioners to:
+Another major contribution is the development of new consistent bootstrap procedures designed specifically for block maxima estimators. These methods allow practitioners to:
 
 - quantify estimation uncertainty,
 - construct confidence intervals,
 - estimate variances in a practical and reliable way.
 
-Importantly, the proposed bootstrap methods avoid the additional tuning parameters that are often required in bootstrap procedures for time series data.
+Importantly, the proposed bootstrap methods avoid the additional tuning parameters that are often required in bootstrap procedures for time series data. Opposing the belief that naive bootstrapping also works for sliding blocks, it is shown and also visualized in simulation studies that a new approach (*circular block maxima*) is mandatory to consistently approximate the unknown error-distribution.
+![Consistent circular bootstrap vs inconsistent naive sliding bootstrap](/images/bootstrap_intro-1.png)
 
 The thesis also proves the mathematical consistency and asymptotic normality of these new methods.
 
