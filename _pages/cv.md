@@ -6,6 +6,14 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+Showcase Project
+===================
+
+**Implementation of a new market risk factor framework**
+
+* Assessed relevant market risk factors from a qualitative risk perspective
+* Integrated the framework into the trading system *Prime*
+* Calculated Delta and Value at Risk measures in accordance with the Basel regulatory framework
 
 Scientific Projects
 ===================
