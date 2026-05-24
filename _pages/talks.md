@@ -13,5 +13,6 @@ International conferences
 
 Local seminars
 ======
+* **PhD Disputation**: (2025) in Bochum: Talk on [Sliding Block Maxima in Extreme Value Statistics](../_pages/sliding_bms).
 * **Seminar**: (2025) in Bochum: Talk on [non-stationary estimation problems with applications to climatology](../_pages/non_stat.md).
 * **Workshop: Statistics in high dimensions** (2024) in Bochum: Talk on the [Graphical Lasso](../_pages/lasso_talk.md) in high dimensions.
