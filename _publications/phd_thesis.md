@@ -16,7 +16,9 @@ supervisor: 'Prof. Axel Bücher, Prof. Johan Segers'
 
 Extreme events play an important role in many real-world applications — for example heavy rainfall, financial crashes, or unusually large technical loads. To better understand and quantify such rare events, this thesis studies statistical methods for analyzing so-called *extreme values*.
 
-A classical approach divides data into blocks and only considers the largest observation within each block (*block maxima method*). More recent approaches use overlapping blocks instead of completely separate ones (*sliding blocks*). This allows more information from the data to be used and can lead to substantially more precise statistical estimates.
+A classical approach divides data into blocks and only considers the largest observation within each block (*block maxima method*). More recent approaches use overlapping blocks instead of completely separate ones (*sliding blocks*). This allows more information from the data to be used and can lead to substantially more precise statistical estimates. 
+
+[Link](/files/diss_staud.pdf) to the thesis (written in english).
 
 ---
 
@@ -74,3 +76,5 @@ Finally, the thesis solves an open mathematical problem related to the well-know
 This thesis develops new theoretical and practical tools for the statistical analysis of extreme events. Overall, the results demonstrate that:
 
 > Sliding block maxima methods provide more precise and statistically efficient inference than classical disjoint block approaches in a wide range of applications.
+
+[Link to the PhD thesis](/files/diss_staud.pdf).
