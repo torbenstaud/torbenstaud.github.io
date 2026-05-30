@@ -3,9 +3,6 @@ permalink: /photos
 excerpt: "Photos"
 title: "Photos"
 author_profile: true
-redirect_from: 
-  - /photos/
-  - /photos.html
 ---
 
 Over the years, this research led to many conference visits, and, inevitably, a fair number of photographs. Feel free to browse them, but do so at your own risk: presenting research is not always the most flattering activity from a photographer's perspective.
